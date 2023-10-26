@@ -1,0 +1,32 @@
+{
+  "user": [
+    {
+      "name": "Rajiv",
+      "password": "888",
+      "email": "rajiv@gmail.com",
+      "id": 1,
+      "role": 1
+    },
+    {
+      "name": "ayush",
+      "password": "123",
+      "email": "ayush@gmail.com",
+      "role": 2,
+      "id": 2
+    },
+    {
+      "name": "uday",
+      "password": "123",
+      "email": "uday@gmail.com",
+      "role": 2,
+      "id": 3
+    },
+    {
+      "name": "prince",
+      "password": "123",
+      "email": "prince@gmail.com",
+      "role": 2,
+      "id": 4
+    }
+  ]
+}
